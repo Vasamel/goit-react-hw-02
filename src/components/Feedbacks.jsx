@@ -2,6 +2,7 @@
 
 // eslint-disable-next-line react/prop-types
 const Feedbacks = ({goodText, neytralText, badText, totalText, positiveText}) => {
+ 
   return (
     <>
       <div>Good: {goodText}</div>
